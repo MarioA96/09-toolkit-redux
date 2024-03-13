@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+}
